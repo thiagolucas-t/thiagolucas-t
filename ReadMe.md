@@ -1,5 +1,5 @@
 # 💫 About Me:
-Estudande de Ciência da Computação 7º Período<br>A procura de estágio na área de desenvolvimento<br>Experiência em infraestrutura
+Estudande de Ciência da Computação 9º Período<br>A procura de estágio na área de desenvolvimento<br>Experiência em infraestrutura
 
 
 ## 🌐 Socials:
