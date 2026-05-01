@@ -1,10 +1,10 @@
 # 💫 Sobre Mim:
-Formado em Ciência da Computação 
-Suporte Técnico
-Redes de computadores
-AUtomação
-Desenvolvimento Web
-Infraestrutura
+Formado em Ciência da Computação<br/> 
+Suporte Técnico<br/>
+Redes de computadores<br/>
+AUtomação<br/>
+Desenvolvimento Web<br/>
+Infraestrutura<br/>
 
 
 ## 🌐 Socials:
